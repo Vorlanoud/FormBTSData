@@ -1,0 +1,19 @@
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.csproj.AssemblyReference.cache
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS_Data.FormMain.resources
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS_Data.FormBand.resources
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS_Data.FormMember.resources
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS_Data.Properties.Resources.resources
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.csproj.GenerateResource.cache
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.AssemblyInfoInputs.cache
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.AssemblyInfo.cs
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\bin\Debug\netcoreapp3.1\BTS Data.exe
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\bin\Debug\netcoreapp3.1\BTS Data.deps.json
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\bin\Debug\netcoreapp3.1\BTS Data.runtimeconfig.json
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\bin\Debug\netcoreapp3.1\BTS Data.runtimeconfig.dev.json
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\bin\Debug\netcoreapp3.1\BTS Data.dll
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\bin\Debug\netcoreapp3.1\BTS Data.pdb
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.dll
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.pdb
+C:\Users\ACER BY COMCOM\Desktop\database     programming\BTS Data\BTS Data\obj\Debug\netcoreapp3.1\BTS Data.genruntimeconfig.cache
